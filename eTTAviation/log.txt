@@ -1,0 +1,495 @@
+abc
+now - DEBUG --> Getting a connection. 
+now - ERROR --> Dao::getConnection The database exploded PDOException Object
+(
+    [message:protected] => SQLSTATE[HY000] [1045] Access denied for user 'bcb55b6c6088fb'@'34.236.150.123' (using password: YES)
+    [string:Exception:private] => 
+    [code:protected] => 1045
+    [file:protected] => /Users/Ryepod/Sites/frozen-ridge-38332/Dao.php
+    [line:protected] => 28
+    [trace:Exception:private] => Array
+        (
+            [0] => Array
+                (
+                    [file] => /Users/Ryepod/Sites/frozen-ridge-38332/Dao.php
+                    [line] => 28
+                    [function] => __construct
+                    [class] => PDO
+                    [type] => ->
+                    [args] => Array
+                        (
+                            [0] => mysql:host=us-cdbr-iron-east-03.cleardb.net;dbname=heroku_73148d31f031b06
+                            [1] => bcb55b6c6088fb
+                            [2] => b7cb13a4
+                        )
+
+                )
+
+            [1] => Array
+                (
+                    [file] => /Users/Ryepod/Sites/frozen-ridge-38332/index.php
+                    [line] => 7
+                    [function] => getConnection
+                    [class] => Dao
+                    [type] => ->
+                    [args] => Array
+                        (
+                        )
+
+                )
+
+        )
+
+    [previous:Exception:private] => 
+    [errorInfo] => 
+)
+ 
+now - DEBUG --> Getting a connection. 
+now - ERROR --> Dao::getConnection The database exploded PDOException Object
+(
+    [message:protected] => SQLSTATE[HY000] [1045] Access denied for user 'bcb55b6c6088fb'@'18.207.176.253' (using password: YES)
+    [string:Exception:private] => 
+    [code:protected] => 1045
+    [file:protected] => /Users/Ryepod/Sites/frozen-ridge-38332/Dao.php
+    [line:protected] => 28
+    [trace:Exception:private] => Array
+        (
+            [0] => Array
+                (
+                    [file] => /Users/Ryepod/Sites/frozen-ridge-38332/Dao.php
+                    [line] => 28
+                    [function] => __construct
+                    [class] => PDO
+                    [type] => ->
+                    [args] => Array
+                        (
+                            [0] => mysql:host=us-cdbr-iron-east-03.cleardb.net;dbname=heroku_73148d31f031b06
+                            [1] => bcb55b6c6088fb
+                            [2] => b7cb13a4
+                        )
+
+                )
+
+            [1] => Array
+                (
+                    [file] => /Users/Ryepod/Sites/frozen-ridge-38332/index.php
+                    [line] => 7
+                    [function] => getConnection
+                    [class] => Dao
+                    [type] => ->
+                    [args] => Array
+                        (
+                        )
+
+                )
+
+        )
+
+    [previous:Exception:private] => 
+    [errorInfo] => 
+)
+ 
+now - DEBUG --> Getting a connection. 
+now - ERROR --> Dao::getConnection The database exploded PDOException Object
+(
+    [message:protected] => SQLSTATE[HY000] [1045] Access denied for user 'bcb55b6c6088fb'@'18.207.176.253' (using password: YES)
+    [string:Exception:private] => 
+    [code:protected] => 1045
+    [file:protected] => /Users/Ryepod/Sites/frozen-ridge-38332/Dao.php
+    [line:protected] => 28
+    [trace:Exception:private] => Array
+        (
+            [0] => Array
+                (
+                    [file] => /Users/Ryepod/Sites/frozen-ridge-38332/Dao.php
+                    [line] => 28
+                    [function] => __construct
+                    [class] => PDO
+                    [type] => ->
+                    [args] => Array
+                        (
+                            [0] => mysql:host=us-cdbr-iron-east-03.cleardb.net;dbname=heroku_73148d31f031b06
+                            [1] => bcb55b6c6088fb
+                            [2] => b7cb13a4
+                        )
+
+                )
+
+            [1] => Array
+                (
+                    [file] => /Users/Ryepod/Sites/frozen-ridge-38332/index.php
+                    [line] => 7
+                    [function] => getConnection
+                    [class] => Dao
+                    [type] => ->
+                    [args] => Array
+                        (
+                        )
+
+                )
+
+        )
+
+    [previous:Exception:private] => 
+    [errorInfo] => 
+)
+ 
+now - DEBUG --> Getting a connection. 
+now - ERROR --> Dao::getConnection The database exploded PDOException Object
+(
+    [message:protected] => SQLSTATE[HY000] [1045] Access denied for user 'bcb55b6c6088fb'@'34.236.150.123' (using password: YES)
+    [string:Exception:private] => 
+    [code:protected] => 1045
+    [file:protected] => /Users/Ryepod/Sites/frozen-ridge-38332/Dao.php
+    [line:protected] => 28
+    [trace:Exception:private] => Array
+        (
+            [0] => Array
+                (
+                    [file] => /Users/Ryepod/Sites/frozen-ridge-38332/Dao.php
+                    [line] => 28
+                    [function] => __construct
+                    [class] => PDO
+                    [type] => ->
+                    [args] => Array
+                        (
+                            [0] => mysql:host=us-cdbr-iron-east-03.cleardb.net;dbname=heroku_73148d31f031b06
+                            [1] => bcb55b6c6088fb
+                            [2] => b7cb13a4
+                        )
+
+                )
+
+            [1] => Array
+                (
+                    [file] => /Users/Ryepod/Sites/frozen-ridge-38332/index.php
+                    [line] => 7
+                    [function] => getConnection
+                    [class] => Dao
+                    [type] => ->
+                    [args] => Array
+                        (
+                        )
+
+                )
+
+        )
+
+    [previous:Exception:private] => 
+    [errorInfo] => 
+)
+ 
+now - DEBUG --> Getting a connection. 
+now - ERROR --> Dao::getConnection The database exploded PDOException Object
+(
+    [message:protected] => SQLSTATE[HY000] [1045] Access denied for user 'bcb55b6c6088fb'@'18.207.176.253' (using password: YES)
+    [string:Exception:private] => 
+    [code:protected] => 1045
+    [file:protected] => /Users/Ryepod/Sites/frozen-ridge-38332/Dao.php
+    [line:protected] => 28
+    [trace:Exception:private] => Array
+        (
+            [0] => Array
+                (
+                    [file] => /Users/Ryepod/Sites/frozen-ridge-38332/Dao.php
+                    [line] => 28
+                    [function] => __construct
+                    [class] => PDO
+                    [type] => ->
+                    [args] => Array
+                        (
+                            [0] => mysql:host=us-cdbr-iron-east-03.cleardb.net;dbname=heroku_73148d31f031b06
+                            [1] => bcb55b6c6088fb
+                            [2] => b7cb13a4
+                        )
+
+                )
+
+            [1] => Array
+                (
+                    [file] => /Users/Ryepod/Sites/frozen-ridge-38332/index.php
+                    [line] => 7
+                    [function] => getConnection
+                    [class] => Dao
+                    [type] => ->
+                    [args] => Array
+                        (
+                        )
+
+                )
+
+        )
+
+    [previous:Exception:private] => 
+    [errorInfo] => 
+)
+ 
+now - DEBUG --> Getting a connection. 
+now - ERROR --> Dao::getConnection The database exploded PDOException Object
+(
+    [message:protected] => SQLSTATE[HY000] [1045] Access denied for user 'bcb55b6c6088fb'@'34.236.150.123' (using password: YES)
+    [string:Exception:private] => 
+    [code:protected] => 1045
+    [file:protected] => /Users/Ryepod/Sites/frozen-ridge-38332/Dao.php
+    [line:protected] => 28
+    [trace:Exception:private] => Array
+        (
+            [0] => Array
+                (
+                    [file] => /Users/Ryepod/Sites/frozen-ridge-38332/Dao.php
+                    [line] => 28
+                    [function] => __construct
+                    [class] => PDO
+                    [type] => ->
+                    [args] => Array
+                        (
+                            [0] => mysql:host=us-cdbr-iron-east-03.cleardb.net;dbname=heroku_73148d31f031b06
+                            [1] => bcb55b6c6088fb
+                            [2] => b7cb13a4
+                        )
+
+                )
+
+            [1] => Array
+                (
+                    [file] => /Users/Ryepod/Sites/frozen-ridge-38332/index.php
+                    [line] => 7
+                    [function] => getConnection
+                    [class] => Dao
+                    [type] => ->
+                    [args] => Array
+                        (
+                        )
+
+                )
+
+        )
+
+    [previous:Exception:private] => 
+    [errorInfo] => 
+)
+ 
+now - DEBUG --> Getting a connection. 
+now - ERROR --> Dao::getConnection The database exploded PDOException Object
+(
+    [message:protected] => SQLSTATE[HY000] [1045] Access denied for user 'bcb55b6c6088fb'@'34.236.150.123' (using password: YES)
+    [string:Exception:private] => 
+    [code:protected] => 1045
+    [file:protected] => /Users/Ryepod/Sites/frozen-ridge-38332/Dao.php
+    [line:protected] => 28
+    [trace:Exception:private] => Array
+        (
+            [0] => Array
+                (
+                    [file] => /Users/Ryepod/Sites/frozen-ridge-38332/Dao.php
+                    [line] => 28
+                    [function] => __construct
+                    [class] => PDO
+                    [type] => ->
+                    [args] => Array
+                        (
+                            [0] => mysql:host=us-cdbr-iron-east-03.cleardb.net;dbname=heroku_73148d31f031b06
+                            [1] => bcb55b6c6088fb
+                            [2] => b7cb13a4
+                        )
+
+                )
+
+            [1] => Array
+                (
+                    [file] => /Users/Ryepod/Sites/frozen-ridge-38332/index.php
+                    [line] => 7
+                    [function] => getConnection
+                    [class] => Dao
+                    [type] => ->
+                    [args] => Array
+                        (
+                        )
+
+                )
+
+        )
+
+    [previous:Exception:private] => 
+    [errorInfo] => 
+)
+ 
+now - DEBUG --> Getting a connection. 
+now - ERROR --> Dao::getConnection The database exploded PDOException Object
+(
+    [message:protected] => SQLSTATE[HY000] [1045] Access denied for user 'bcb55b6c6088fb'@'18.207.176.253' (using password: YES)
+    [string:Exception:private] => 
+    [code:protected] => 1045
+    [file:protected] => /Users/Ryepod/Sites/frozen-ridge-38332/Dao.php
+    [line:protected] => 28
+    [trace:Exception:private] => Array
+        (
+            [0] => Array
+                (
+                    [file] => /Users/Ryepod/Sites/frozen-ridge-38332/Dao.php
+                    [line] => 28
+                    [function] => __construct
+                    [class] => PDO
+                    [type] => ->
+                    [args] => Array
+                        (
+                            [0] => mysql:host=us-cdbr-iron-east-03.cleardb.net;dbname=heroku_73148d31f031b06
+                            [1] => bcb55b6c6088fb
+                            [2] => b7cb13a4
+                        )
+
+                )
+
+            [1] => Array
+                (
+                    [file] => /Users/Ryepod/Sites/frozen-ridge-38332/index.php
+                    [line] => 7
+                    [function] => getConnection
+                    [class] => Dao
+                    [type] => ->
+                    [args] => Array
+                        (
+                        )
+
+                )
+
+        )
+
+    [previous:Exception:private] => 
+    [errorInfo] => 
+)
+ 
+now - ERROR --> Dao::getConnection The database exploded PDOException Object
+(
+    [message:protected] => SQLSTATE[HY000] [1045] Access denied for user 'bcb55b6c6088fb'@'34.236.150.123' (using password: YES)
+    [string:Exception:private] => 
+    [code:protected] => 1045
+    [file:protected] => /Users/Ryepod/Sites/frozen-ridge-38332/Dao.php
+    [line:protected] => 28
+    [trace:Exception:private] => Array
+        (
+            [0] => Array
+                (
+                    [file] => /Users/Ryepod/Sites/frozen-ridge-38332/Dao.php
+                    [line] => 28
+                    [function] => __construct
+                    [class] => PDO
+                    [type] => ->
+                    [args] => Array
+                        (
+                            [0] => mysql:host=us-cdbr-iron-east-03.cleardb.net;dbname=heroku_73148d31f031b06
+                            [1] => bcb55b6c6088fb
+                            [2] => b7cb13a4
+                        )
+
+                )
+
+            [1] => Array
+                (
+                    [file] => /Users/Ryepod/Sites/frozen-ridge-38332/index.php
+                    [line] => 7
+                    [function] => getConnection
+                    [class] => Dao
+                    [type] => ->
+                    [args] => Array
+                        (
+                        )
+
+                )
+
+        )
+
+    [previous:Exception:private] => 
+    [errorInfo] => 
+)
+ 
+now - DEBUG --> Getting a connection. 
+now - ERROR --> Dao::getConnection The database exploded PDOException Object
+(
+    [message:protected] => SQLSTATE[HY000] [1045] Access denied for user 'bcb55b6c6088fb'@'34.236.150.123' (using password: YES)
+    [string:Exception:private] => 
+    [code:protected] => 1045
+    [file:protected] => /Users/Ryepod/Sites/frozen-ridge-38332/Dao.php
+    [line:protected] => 28
+    [trace:Exception:private] => Array
+        (
+            [0] => Array
+                (
+                    [file] => /Users/Ryepod/Sites/frozen-ridge-38332/Dao.php
+                    [line] => 28
+                    [function] => __construct
+                    [class] => PDO
+                    [type] => ->
+                    [args] => Array
+                        (
+                            [0] => mysql:host=us-cdbr-iron-east-03.cleardb.net;dbname=heroku_73148d31f031b06
+                            [1] => bcb55b6c6088fb
+                            [2] => b7cb13a4
+                        )
+
+                )
+
+            [1] => Array
+                (
+                    [file] => /Users/Ryepod/Sites/frozen-ridge-38332/index.php
+                    [line] => 7
+                    [function] => getConnection
+                    [class] => Dao
+                    [type] => ->
+                    [args] => Array
+                        (
+                        )
+
+                )
+
+        )
+
+    [previous:Exception:private] => 
+    [errorInfo] => 
+)
+ 
+now - DEBUG --> Getting a connection. 
+now - ERROR --> Dao::getConnection The database exploded PDOException Object
+(
+    [message:protected] => SQLSTATE[HY000] [1045] Access denied for user 'bcb55b6c6088fb'@'34.236.150.123' (using password: YES)
+    [string:Exception:private] => 
+    [code:protected] => 1045
+    [file:protected] => /Users/Ryepod/Sites/frozen-ridge-38332/Dao.php
+    [line:protected] => 28
+    [trace:Exception:private] => Array
+        (
+            [0] => Array
+                (
+                    [file] => /Users/Ryepod/Sites/frozen-ridge-38332/Dao.php
+                    [line] => 28
+                    [function] => __construct
+                    [class] => PDO
+                    [type] => ->
+                    [args] => Array
+                        (
+                            [0] => mysql:host=us-cdbr-iron-east-03.cleardb.net;dbname=heroku_73148d31f031b06
+                            [1] => bcb55b6c6088fb
+                            [2] => b7cb13a4
+                        )
+
+                )
+
+            [1] => Array
+                (
+                    [file] => /Users/Ryepod/Sites/frozen-ridge-38332/index.php
+                    [line] => 7
+                    [function] => getConnection
+                    [class] => Dao
+                    [type] => ->
+                    [args] => Array
+                        (
+                        )
+
+                )
+
+        )
+
+    [previous:Exception:private] => 
+    [errorInfo] => 
+)
+ 
